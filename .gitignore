@@ -1,0 +1,8 @@
+
+bank_data.json
+bank_users.json
+bank_with_login_backup.py
+__pycache__/
+*.py[cod]
+.venv/
+.env
